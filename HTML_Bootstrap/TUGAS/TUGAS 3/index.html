@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Latihan Bootstrap</title>
+<link rel="stylesheet" href="css/bootstrap.min.css"/>
+<link rel="stylesheet" href="css/style.css"/>
+<script src="js/jquery-3.3.1.min.js"/></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/scripts.js"></script>
+
+<link href="img/crearlogogratis_1024x1024_01.png" rel="shortcut icon"/>
+
+  <style>
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  </style>
+
+</head>
+
+<body>
+
+        <!-- Efek Loading Awal -->
+	<div id="preloder">
+		<div class="loader"></div>
+	</div>
+
+        <!-- Navbar Atas -->
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="index.html">
+  <img src="img/crearlogogratis_1024x1024_01.png" width="40px"/>
+  </a>
+
+  <ul class="navbar-nav">
+      <li class="nav-item">
+      <a class="nav-link" href="#">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#hewan">Hewan</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#crs">Carousel</a>
+    </li>
+        <li class="nav-item">
+      <a class="nav-link" href="#beruang">Beruang</a>
+    </li>
+    <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" data-toggle="dropdown">Masuk</a>
+ <ul class="dropdown-menu" style="padding: 20px 10px 5px 10px; width:300px;">
+ <li>
+        <form>
+   <div class="form-group">
+    <input type="email" class="form-control" id="inputEmail" placeholder="Masukkan Email">
+   </div>
+   <div class="form-group">
+                <input type="password" class="form-control" id="inputPassword" placeholder="Masukkan Password">
+   </div>
+   <div class="checkbox">
+    <label><input type="checkbox"> Ingat saya</label>
+   </div>
+   <button type="submit" class="btn btn-primary">Masuk</button>
+        </form>
+ </li>
+ </ul>
+</li>
+  </ul>
+</nav> 
+
+        <!-- Judul/Tema Web -->
+<div class="jumbotron text-center">
+<h1>Indeks Hewan</h1>
+</div>
+
+        <!-- Isi/Indeks Web -->
+<div id="isi" class="container">
+<div class="row">
+
+<div class="col-sm-4" id="hewan">
+<img src="img/kucing.jpg" class="rounded" width="340" height="226" />
+<center><h3>Kucing</h3></center>
+<p align="center">Kucing adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.</p></div>
+
+<div class="col-sm-4">
+<img src="img/snow-dogs-32.jpg" class="rounded" width="340" height="226" />
+<center><h3>Anjing</h3></center>
+<p align="center">Anjing adalah mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu atau mungkin sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama.</p></div>
+
+<div class="col-sm-4">
+<img src="img/kelinci.jpg" class="rounded" width="340" height="226"/>
+<center><h3>Kelinci</h3></center>
+<p align="center">Kelinci adalah hewan mamalia dari famili Leporidae, yang dapat ditemukan di banyak bagian bumi. Asal kata kelinci berasal dari bahasa Belanda, yaitu konijntje yang berarti "anak kelinci".</p></div></div></row>
+
+<br />
+
+            <br />
+             
+             <hr width="100%" align="center">
+             
+             <br />
+             
+<br />
+
+        <!-- Carousel Gambar Hewan -->
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
+  </ul>
+
+   <div class="carousel-inner" align="center" id="crs">
+    <div class="carousel-item active">
+      <img src="img/kucing.jpg" alt="Kucing" width="800" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="img/anjing.jpg" alt="Anjing" width="800" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="img/kelinci.jpg" alt="Kelinci" width="800" height="500">
+    </div>
+        <div class="carousel-item">
+      <img src="img/rabbit-in-snow.jpg" alt="Rabbit" width="800" height="500">
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+
+</div>
+
+            <br />
+            
+             <hr width="100%" align="center">
+             
+                     <!-- Penjelasan Beruang -->
+<section class="about-section spad" id="beruang">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-5">
+					<figure>
+						<img src="img/polarBear.jpg" alt="">
+					</figure>
+				</div>
+				<div class="col-lg-6 about-text">
+					<div class="about-title">
+						<h2>Beruang Kutub</h2>
+						<h4>Polar Bear</h4>
+                                     <hr width="40%" align="left">
+					</div>
+					<p><span>Beruang Kutub</span> adalah mamalia besar dalam aturan marga keluarga biologi Ursidae. Dia termasuk spesies circumpolar yang terdapat di sekitar benua paling utara bumi, yaitu benua Artik dan termasuk beruang paling karnivora di antara keluarga beruang lainnya.</p>
+				</div>
+			</div>
+            
+            <br />
+             
+             <hr width="100%" align="center">
+             
+             <br />
+             
+                     <!-- Penjelasan Panda -->
+<div class="container">
+  <h2 align="center">Tentang Panda</h2>
+             
+             <hr width="20%" align="center">
+             
+  <center><img src="img/gambar panda (7).jpg" class="img-thumbnail" width="600" height="450"/></center>
+  <p align="center">Panda adalah spesies beruang yang ditemukan di pegunungan China tengah dan barat. Bulu tebal panda berwarna putih krem, dengan bercak hitam besar pada tungkai, bahu, telinga dan hidung, dan daerah di sekitar mata kecil mereka yang khas. 90 persen menu makan panda makan terderi dari bambu.</p>
+  
+      <center><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+Buka Galeri
+  </button></center>
+
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <div class="modal-header">
+          <h4 class="modal-title">Galeri Panda</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <div class="modal-body">
+          <img src="img/panda-sleeping_1703683i.jpg" />
+          <img src="img/panda-mager.jpg" />
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+            <br />
+            
+             <hr width="100%" align="center">
+             
+             <br />
+             
+                     <!-- Masuk -->
+              <h2 align="center" id="masuk">Login untuk Masuk<h2><br />
+      <center><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#loginmek">
+Login Ke Web
+  </button></center>
+
+  <div class="modal fade" id="loginmek">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <div class="modal-header">
+          <h4 class="modal-title">Masuk</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <div class="modal-body">
+<form id="frm01 name="frm01"
+method="post" class="form-signin">
+</form>
+
+<div class="text center mb-4">
+<center> <img class"mb-4" width="72" height="72" src="img/crearlogogratis_1024x1024_01.png"></center><br />
+
+<p>Login</p>
+
+<input class="form-control" type="email"
+name="email" id="email" required="yes" placeholder="Masukkan Email" autofocus="yes" autocomplete="no">
+
+<input class="form-control" type="pwd"
+type="password" name="password" required="yes" placeholder="Masukkan Password" autofocus="yes" autocomplete="no">
+
+        <button class="btn btn-info btn-primary btn-block" type="submit">Login</button>
+        
+        </div>
+        
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+            <br />
+            
+             <hr width="100%" align="center">
+             
+             <br />
+
+        <!-- Penutup -->
+<div class="container">
+  <h2 align="center">Terima Kasih</h2>
+  <p align="center">Doumo arigatou (どうもありがとう)</p>
+  <center><button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#colep">Tampilkan</button></center>
+  <div id="colep" class="collapse" align="center">
+  <br />
+<img src="img/petrik.gif"
+  </div>
+</div>
+
+            <br />
+            
+             <hr width="100%" align="center">
+             
+             <br />
+
+        <!-- Footer Bawah -->
+	<footer class="footer-section spad set-bg" data-setbg="img/footer-bg.svg">
+		<div class="container">
+        <h3><font color="white">Tentang</font></h3>
+        <br /><br /><br />
+        <p>Website ini dibuat khusus untuk tugas kuliah: <i>Bootstrap.</i></p>
+        <br />
+                <br />
+                        <br />
+
+			<p class="copyright">Copyright &copy; 2018. All rights Reserved.</p>
+		</div>
+	</footer>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe.config
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe.config
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\mscorlib.dll
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\System.Net.Http.dll
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\System.Net.Http.xml
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\normidna.nlp
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\normnfc.nlp
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\normnfd.nlp
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\normnfkc.nlp
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\normnfkd.nlp
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.csprojResolveAssemblyReference.cache
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+D:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe.config
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.csprojAssemblyReference.cache
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.csproj.CoreCompileInputs.cache
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+E:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.exe
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\bin\Debug\Tugas Akhir - Menu Horizontal + Program.pdb
+F:\C# Console\Tugas Akhir - Menu Horizontal + Program\Tugas Akhir - Menu Horizontal + Program\obj\Debug\Tugas Akhir - Menu Horizontal + Program.csprojResolveAssemblyReference.cache

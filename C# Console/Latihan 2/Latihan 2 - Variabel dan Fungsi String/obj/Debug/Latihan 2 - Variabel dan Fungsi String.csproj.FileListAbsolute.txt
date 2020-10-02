@@ -1,0 +1,6 @@
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\bin\Debug\Latihan 2 - Variabel dan Fungsi String.exe.config
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\bin\Debug\Latihan 2 - Variabel dan Fungsi String.exe
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\bin\Debug\Latihan 2 - Variabel dan Fungsi String.pdb
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\obj\Debug\Latihan 2 - Variabel dan Fungsi String.csprojResolveAssemblyReference.cache
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\obj\Debug\Latihan 2 - Variabel dan Fungsi String.exe
+F:\C# Console\Latihan 2\Latihan 2 - Variabel dan Fungsi String\obj\Debug\Latihan 2 - Variabel dan Fungsi String.pdb
